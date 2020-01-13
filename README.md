@@ -1,2 +1,2 @@
 # docker-tasks1
-Repository for Docker tasks1
+Repository for Docker calss tasks1
